@@ -2,7 +2,7 @@
 
 🎯 Aspiring Data Analyst | Currently open to full-time opportunities  
 🏫 B.S. Data Science & Big Data Technology, BUCT  
-📍 Beijing, China  
+📍 KunMing, China  
 
 ## Tech Stack
 - **Python** · Pandas · NumPy · Matplotlib · Seaborn  
@@ -15,5 +15,4 @@
 - 🔍 Targeting: Data Analyst / BI Engineer roles  
 
 ## Repos
-- [`data-analysis-learning`](链接) - 数据分析学习记录与项目
-- [`knowledge-base`](链接) - 个人知识库（Private）
+- [`analytics-lab`](https://github.com/ChaceXYang/analytics-lab) - Data analysis practice & projects
