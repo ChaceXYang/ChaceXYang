@@ -1,7 +1,7 @@
 # Hi, I'm Chase 👋
 
 🎯 Aspiring Data Analyst | Currently open to full-time opportunities  
-🏫 B.S. Data Science & Big Data Technology, BUCT  
+🏫 B.E. Data Science & Big Data Technology, BUCT  
 📍 KunMing, China  
 
 ## Tech Stack
