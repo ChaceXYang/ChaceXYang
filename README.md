@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Chase 👋
 
-<!--
-**ChaceXYang/ChaceXYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Currently open to full-time opportunities  
+🏫 B.S. Data Science & Big Data Technology, BUCT  
+📍 Beijing, China  
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Python** · Pandas · NumPy · Matplotlib · Seaborn  
+- **SQL** · MySQL  
+- **Visualization** · Tableau  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 📊 Building data analysis portfolio projects  
+- 📖 Studying: *Python for Data Analysis* (Wes McKinney)  
+- 🔍 Targeting: Data Analyst / BI Engineer roles  
+
+## Repos
+- [`data-analysis-learning`](链接) - 数据分析学习记录与项目
+- [`knowledge-base`](链接) - 个人知识库（Private）
