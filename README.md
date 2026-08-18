@@ -1,21 +1,24 @@
 # Hi, I'm Chase 👋
 
-**Data Analyst (SQL × Python)** — fintech risk analytics & e-commerce growth analytics
+**Data Analyst (SQL × Python)** — e-commerce & cross-border growth analytics
 
 🎓 B.E. Data Science & Big Data Technology, BUCT (Class of 2025) · CET-6  
-📍 Based in Kunming · targeting Chengdu / Gaunzhou / Shenzhen · open to relocate
+📍 Based in Kunming · targeting Chengdu / Guangzhou / Shenzhen · open to relocate
 
 ## What I Do
 
-Turn raw data into business decisions: credit risk rule design, vintage monitoring, retention & funnel diagnostics.
+Turn raw data into business decisions: retention & cohort analysis, RFM segmentation, repeat-purchase structure, and funnel diagnostics.
 SQL-first, Python for heavy lifting, BI for storytelling. Every conclusion ships with data evidence and stated limitations — no black boxes, no machine learning crutches.
 
-## Featured Projects
+## Featured Project
 
-| Project | Business Question | Stack |
-|---|---|---|
-| [Freddie Mac Mortgage Vintage Risk](https://github.com/ChaceXYang/analytics-lab/tree/main/projects/freddie-mac-mortgage-vintage-risk) 🚧 | Which loan vintages default most, and where should approval rules (FICO/DTI/LTV) draw the line? Vintage curves + roll-rate transition matrix | SQL · Python |
-| [H&M Customer Retention & RFM](https://github.com/ChaceXYang/analytics-lab/tree/main/projects/hm-customer-retention-rfm) 🚧 | Repeat purchase vs. one-time buyers: cohort retention, RFM segmentation and dormant-customer recall on 30M+ real transactions | SQL · Python |
+| Project | Business Question | Result | Stack |
+|---|---|---|---|
+| [H&M Customer Retention & RFM](https://github.com/ChaceXYang/analytics-lab/tree/main/projects/hm-customer-retention-rfm) 🚧 | Repeat purchase vs. one-time buyers on 30M+ real transactions | Repeat customers (64% of users) drive **94% of revenue**; first-month retention drops to **44%** | SQL · Python |
+
+## Also Planned
+
+- **Freddie Mac Mortgage Vintage Risk** (fintech) — vintage default curves + roll-rate transition matrix; framework & data ready, to start after H&M.
 
 ## Tech Stack
 
@@ -26,5 +29,5 @@ SQL-first, Python for heavy lifting, BI for storytelling. Every conclusion ships
 
 ## Currently
 
-- 🚧 August 2026 sprint: shipping the two P0 projects above with full SQL + Python analysis
-- 📖 Keeping a daily practice log in [`analytics-lab`](https://github.com/ChaceXYang/analytics-lab)
+- 🚧 August 2026: shipping the H&M P0 project — cohort retention + RFM + repeat-purchase done; Pareto & dormant-customer analysis next
+- 📖 Daily practice log in [`analytics-lab`](https://github.com/ChaceXYang/analytics-lab)
