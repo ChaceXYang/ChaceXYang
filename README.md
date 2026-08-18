@@ -16,10 +16,6 @@ SQL-first, Python for heavy lifting, BI for storytelling. Every conclusion ships
 |---|---|---|---|
 | [H&M Customer Retention & RFM](https://github.com/ChaceXYang/analytics-lab/tree/main/projects/hm-customer-retention-rfm) 🚧 | Repeat purchase vs. one-time buyers on 30M+ real transactions | Repeat customers (64% of users) drive **94% of revenue**; first-month retention drops to **44%** | SQL · Python |
 
-## Also Planned
-
-- **Freddie Mac Mortgage Vintage Risk** (fintech) — vintage default curves + roll-rate transition matrix; framework & data ready, to start after H&M.
-
 ## Tech Stack
 
 - **SQL** — window functions, multi-table joins, CTEs, conditional aggregation (SQLite / PostgreSQL)
