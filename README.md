@@ -8,7 +8,7 @@
 ## What I Do
 
 Turn raw data into business decisions: retention & cohort analysis, RFM segmentation, repeat-purchase structure, and funnel diagnostics.
-SQL-first, Python for heavy lifting, BI for storytelling. Every conclusion ships with data evidence and stated limitations — no black boxes, no machine learning crutches.
+SQL-first, Python for heavy lifting, BI for storytelling. Every conclusion ships with data evidence and stated limitations.
 
 ## Featured Project
 
