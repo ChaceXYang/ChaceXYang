@@ -3,7 +3,7 @@
 **Data Analyst (SQL × Python)** — fintech risk analytics & e-commerce growth analytics
 
 🎓 B.E. Data Science & Big Data Technology, BUCT (Class of 2025) · CET-6  
-📍 Based in Kunming · targeting Chengdu / Chongqing / Shenzhen · open to relocate
+📍 Based in Kunming · targeting Chengdu / Gaunzhou / Shenzhen · open to relocate
 
 ## What I Do
 
